@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Teknovation
+comment1.params=Window
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=text
+comment2.target=boolean\ checker(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=java.lang.String\ site()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

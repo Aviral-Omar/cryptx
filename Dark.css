@@ -1,0 +1,30 @@
+.root{
+-fx-background-image: url("Dark.jpg");
+}
+.label{
+-fx-font-family: "RawengulkSans";
+-fx-font-size: 17px;
+-fx-font-weight: bold;
+-fx-text-fill: #CEF6EC;
+}
+#Level{-fx-font-size: 32px;
+-fx-font-family: "Saucer BB";
+-fx-fill: #CEF6EC;
+-fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+.button {
+-fx-font-size: 13px;
+-fx-text-fill: #070719;
+-fx-font-family: "Saucer BB";
+-fx-font-weight: bold;
+-fx-background-color: linear-gradient(#CEF6EC, #A4A4A4);
+-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+-fx-background-radius: 8;
+}
+.button:hover {
+-fx-background-color: linear-gradient(#0040FF, #A4A4A4);
+}
+#Textbox{
+-fx-font-family: "RawengulkSans";
+-fx-background-radius: 6;
+}
